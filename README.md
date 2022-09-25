@@ -3,7 +3,7 @@ tipo de datos enum, para selector
 
 
 
-
+```java
      public class TipoENUM {
          public static void main(String[] args) {
             enum Clase { ALFA, BRAVO!, CHARLIE }; 
@@ -12,7 +12,7 @@ tipo de datos enum, para selector
             System.out.println("el valor es:  "+valor);
          }
      }
-
+```
 
 
 
