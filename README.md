@@ -3,15 +3,15 @@ tipo de datos enum, para selector
 
 
 
-public class TipoENUM {
-    public static void main(String[] args) {
-        enum Clase { ALFA, BRAVO!, CHARLIE }; 
-        Clase valor; 
-        valor= Clase.BRAVO!; 
-        System.out.println("el valor es:  "+valor);
-    }
-}
 
+     public class TipoENUM {
+         public static void main(String[] args) {
+            enum Clase { ALFA, BRAVO!, CHARLIE }; 
+            Clase valor; 
+            valor= Clase.BRAVO!; 
+            System.out.println("el valor es:  "+valor);
+         }
+     }
 
 
 
